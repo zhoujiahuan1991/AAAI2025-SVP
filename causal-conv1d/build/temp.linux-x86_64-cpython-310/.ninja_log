@@ -1,0 +1,5 @@
+# ninja log v5
+1	4488	1714735596983130289	/data/dataset/yaoyifeng/code/PVMamba/vim-main/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	4bca4545a300061f
+1	12136	1714735604619101083	/data/dataset/yaoyifeng/code/PVMamba/vim-main/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	7c02cb886b6a22d3
+0	19997	1714735612491071061	/data/dataset/yaoyifeng/code/PVMamba/vim-main/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	5efc2a1c7e165002
+0	35508	1714735627963012312	/data/dataset/yaoyifeng/code/PVMamba/vim-main/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	f5649433cf60edea
