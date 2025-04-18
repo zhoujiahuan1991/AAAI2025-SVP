@@ -13,7 +13,7 @@
 </div>
 <p align="center">
   <a href='https://arxiv.org/abs/2412.08947'><img src='https://img.shields.io/badge/Arxiv-2412.08947-A42C25.svg?logo=arXiv'></a>
-  <a href="https://github.com/zhoujiahuan1991/AAAI2025-SVP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FAAAI2025-SVP&label=FCS&icon=github&color=%233d8bfd"></a>
+  <a href="https://github.com/zhoujiahuan1991/AAAI2025-SVP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FAAAI2025-SVP&label=SVP&icon=github&color=%233d8bfd"></a>
 </p>
 
 Official implementation of "[Selective Visual Prompting in Vision Mamba](https://arxiv.org/abs/2412.08947)"
